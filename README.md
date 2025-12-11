@@ -20,13 +20,14 @@
   - MSI Mode Tweaks
   - System Timer Tweaks (sauce)
   - Monitor Tweaks (cru)
-- Internet Tweaks
+- Internet Tweaks (connection/bullet reg)
   - Powersaving Tweaks
+  - Ethernet Property/Controller Tweaks
   - Tcpip Tweaks
   - Bufferbloat Tweaks
   - TCPOptimizer Tweaks
   - CMD/Powershell Settings
-  - Optional Exitlag Guide
+  - Optional Exitlag Guide/Router Settings
 - USB Tweaks
   - MNK (dqs)
   - Controller OC (hidusbf bb)
