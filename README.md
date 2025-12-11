@@ -37,7 +37,7 @@
   - QoL Scripts
   - SpotX (Spotify w/ no ads)
   - Bios Settings (scewin)
-  - Autoruns
+  - OBS Settings
   - MAS (windows activation script)
   - DDU (display driver uninstaller) lowk sauce
 
