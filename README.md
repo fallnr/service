@@ -1,4 +1,4 @@
-# Computer Optimization Service
+# Computer Optimization Service ($50)
 - Windows Cleanup (temp files / bat scripts)
    - Disabling Background Apps
    - Windows Settings
@@ -35,5 +35,5 @@
   - Autoruns
   - MAS (windows activation script)
 
-# Controller Modding Service
+# Controller Modding Service ($80)
 TMR Stick Installation
