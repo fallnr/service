@@ -1,13 +1,13 @@
 # Computer Optimization Service ($50)
 - Windows Cleanup
-   - Temp Files / Bat Scripts
+   - Temp Files / Cleanup Bat Scripts
    - Disabling Background Apps
-   - Windows Settings
+   - Windows Settings (reg files/bat scripts)
    - Revo Uninstaller
-   - taskschd
-- Windows Debloat (MASSIVE)
+   - Browser Optimization (+adblock method)
+- Windows Debloat
    - Lower Processes
-   - *CTT* MASSIVE. (services, telemetry, etc.)
+   - *CTT*. This is MASSIVE. (services, telemetry, etc.)
 - Disabling Power Saving Features
   - Custom Powerplan
   - GPU/CPU/Network/System
@@ -25,6 +25,8 @@
   - Tcpip Tweaks
   - Bufferbloat Tweaks
   - TCPOptimizer Tweaks
+  - CMD/Powershell Settings
+  - Optional Exitlag Guide
 - USB Tweaks
   - MNK (dqs)
   - Controller OC (hidusbf bb)
@@ -36,6 +38,7 @@
   - Bios Settings (scewin)
   - Autoruns
   - MAS (windows activation script)
+  - DDU (display driver uninstaller) lowk sauce
 
 # Controller Modding Service ($80)
 - TMR Stick Installation
