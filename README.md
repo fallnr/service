@@ -1,4 +1,8 @@
 # Computer Optimization Service ($50)
+
+[ INCREASE FPS, RESPONSIVENESS, CONNECTION
+LOWER LATENCY, INPUT LAG, STUTTERS, PACKET BURSTS ]
+
 - Windows Cleanup
    - Temp Files / Cleanup Scripts
    - Windows Settings (reg files/bat scripts)
