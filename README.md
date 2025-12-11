@@ -1,6 +1,9 @@
 # Computer Optimization Service
+- Windows Debloat (lower processes)
+- Disabling Power Saving Features
 - Latency Tweaks
-- Fps Tweaks
+- FPS Tweaks
+  -- Nvidia Control Panel / ProfileInspector Settings
 - Internet Tweaks
 
 
