@@ -1,8 +1,8 @@
 # Computer Optimization Service ($50)
 - Windows Cleanup
    - Temp Files / Cleanup Scripts
-   - Disabling Background Apps
    - Windows Settings (reg files/bat scripts)
+   - Disabling Background/Startup Apps
    - Browser Optimization (+adblock method)
    - Revo Uninstaller
 - Windows Debloat
