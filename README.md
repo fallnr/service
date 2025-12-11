@@ -43,7 +43,7 @@
 
 # Controller Modding Service ($80)
 - TMR Stick Installation
-  (Best on the Market..)
+  (best on the market)
   - Anti Stick Drift
   - More Energy Efficient
   - Higher Precision
