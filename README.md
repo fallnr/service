@@ -2,8 +2,8 @@
 - Windows Cleanup (temp files / bat scripts)
    - Disabling Background Apps
    - Windows Settings
-   - taskschd
    - Revo Uninstaller
+   - taskschd
 - Windows Debloat (lower processes) *CTT*
    - MASSIVE. (services, telemetry, etc.)
 - Disabling Power Saving Features
