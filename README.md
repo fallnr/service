@@ -3,7 +3,7 @@
 - Disabling Power Saving Features
 - Latency Tweaks
 - FPS Tweaks
-  -- Nvidia Control Panel / ProfileInspector Settings
+  - Nvidia Control Panel / ProfileInspector Settings
 - Internet Tweaks
 
 
