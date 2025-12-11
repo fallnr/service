@@ -22,7 +22,7 @@
   - Monitor Tweaks (cru)
 - Internet Tweaks (connection/bullet reg)
   - Powersaving Tweaks
-  - Ethernet Property/Controller Tweaks
+  - Ethernet Properties/Controller Tweaks
   - Tcpip Tweaks
   - Bufferbloat Tweaks
   - TCPOptimizer Tweaks
