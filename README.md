@@ -1,13 +1,13 @@
 # Computer Optimization Service ($50)
 - Windows Cleanup
-   - Temp Files / Cleanup Bat Scripts
+   - Temp Files / Cleanup Scripts
    - Disabling Background Apps
    - Windows Settings (reg files/bat scripts)
-   - Revo Uninstaller
    - Browser Optimization (+adblock method)
+   - Revo Uninstaller
 - Windows Debloat
    - Lower Processes
-   - *CTT*. This is MASSIVE. (services, telemetry, etc.)
+   - *CTT*. MASSIVE. (services, telemetry, etc.)
 - Disabling Power Saving Features
   - Custom Powerplan
   - GPU/CPU/Network/System
@@ -42,3 +42,8 @@
 
 # Controller Modding Service ($80)
 - TMR Stick Installation
+  (Best on the Market..)
+  - Anti Stick Drift
+  - More Energy Efficient
+  - Higher Precision
+  - Lower Latency
